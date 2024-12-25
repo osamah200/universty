@@ -98,7 +98,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # CSV file path
-file_path = "universities.csv"
+file_path = "web/universities.csv"
 
 # OpenAI client setup
 try:
